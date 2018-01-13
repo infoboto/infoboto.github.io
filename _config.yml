@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Infoboto
+description: Clube de Robótica da INFNET
 
 # User settings
 username: INFOBOTO
-user_description: 
+user_description: Clube de Robótica da INFNET
 user_title: Clube de Robótica da INFNET
 email: infoboto@gmail.com
-github_username:  infoboto
+github_username: infoboto
 
 exclude: ['package.json', 'src' , 'node_modules']
