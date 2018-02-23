@@ -188,3 +188,31 @@ section#contact p.lead.mb-0 {
     margin-top: 5%;
     margin-bottom: 5%;
 }
+
+#logo-roboto {
+    width: 30%;
+}
+
+.membros > small {
+    display: block;
+    padding: 1%;
+    font-weight: 620;
+}
+
+#missao, #valores {
+    margin-left: 5% !important;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+@media (max-width: 600px) {
+    #logo-roboto {
+        width: 80%;
+    }
+}
+
+@media (max-width: 300px) {
+    #logo-roboto {
+        width: 40%;
+    }
+}
