@@ -21,11 +21,7 @@ nav {
 }
 
 .apoio img {
-    max-width:113px;
-    max-height:166px;
-    width: auto;
-    height: auto;
-    margin-left: 43px;
+    max-width:90%;
 }
 
 .apoio {
@@ -47,6 +43,10 @@ nav {
     margin-top: 15%;
     width: 50%;
     height: 50%;
+}
+
+.back-dark {
+    padding-bottom: 5%;
 }
 
 header.masthead {
@@ -107,6 +107,11 @@ a.link-about:hover {
 
 a.link-external {
     color: #343A40;
+    text-decoration: none;
+}
+
+a.link-external-white {
+    color: #ffffff;
     text-decoration: none;
 }
 
