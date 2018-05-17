@@ -122,13 +122,6 @@ section {
 }
 
 a.link-subscription {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-a.link-subscription:hover {
-    color: rgb(181, 216, 247);
-    font-weight: bold;
     text-decoration: none;
 }
 
